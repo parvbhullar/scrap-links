@@ -1,0 +1,29 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "Hit & Run ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parvbhullar/scarpper.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "parvbhullar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parvbhullar/scarpper/issues"
+  },
+  "homepage": "https://github.com/parvbhullar/scarpper#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "cheerio": "^0.20.0",
+    "csv": "^0.4.6",
+    "process-throttle": "0.0.1",
+    "request": "^2.69.0"
+  }
+}
